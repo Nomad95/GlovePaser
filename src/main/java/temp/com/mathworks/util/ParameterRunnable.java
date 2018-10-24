@@ -1,0 +1,12 @@
+package temp.com.mathworks.util;
+
+public abstract interface ParameterRunnable<T>
+{
+  public abstract void run(T paramT);
+}
+
+
+/* Location:              D:\Materialy\dmytruk\AnalizaDanych.jar!\com\mathworks\util\ParameterRunnable.class
+ * Java compiler version: 7 (51.0)
+ * JD-Core Version:       0.7.1
+ */
